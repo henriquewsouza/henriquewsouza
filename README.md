@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Henrique Waxman</h1>
 <h3 align="center">Nerd, back-end developer and CyberSec enthusiast from Brazil</h3>
 
-- 🌱 I’m currently learning **AWS, Python and upgrading my bash skills!**
+- 🌱 I’m currently learning **AWS, GO and upgrading my bash skills!**
 
 - 👨‍💻 My lastest Project is avaible at [https://stockflow.dev.br/](https://stockflow.dev.br/)
 
